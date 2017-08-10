@@ -1,0 +1,6 @@
+name: Home
+main: me.d3sknight.Home
+version: 1.1
+commands:
+  sethome:
+  home:
